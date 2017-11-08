@@ -1,0 +1,46 @@
+body{
+  font-family: "Times New Roman", Times, serif;
+}
+
+.main-div {
+  box-shadow:         5px 5px 5px 0px rgba(50, 50, 50, 0.18);
+  width: 320px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(50, 50, 50, 0.30);
+}
+h3 {
+  font-weight: bold;
+  border-style: hidden;
+  border-width: 1px;
+  font-size: 25px;
+}
+img{
+  display: block;
+}
+.information {
+  width: 300px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(50, 50, 50, 0.30);
+  text-align: left;
+  font-size: 15px;
+}
+.italicize {
+  font-style: italic;
+}
+ul {
+  list-style-type: none;
+}
+span {
+  font-weight: bold;
+}
+li {
+  padding: 1px;
+}
+.centered {
+  margin: 15px 10px 15px 10px;
+}
+.offseted{
+  padding: 0px 10px 0px 10px;
+}
